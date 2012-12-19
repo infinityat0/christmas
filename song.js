@@ -108,7 +108,7 @@
 	and a Patridge in a pear tree.
 */
 var song = (function () {
-	var gifts = ['Patridge in a pear tree', 'Turtle Dowes', 'french hens', 'french hens', 'calling birds', 'golden rings', 
+	var gifts = ['Patridge in a pear tree', 'Turtle Dowes', 'french hens', 'calling birds', 'golden rings', 
 		'geese-a-laying', 'swans-a-swimming', 'maids-a-milking', 'ladies dancing', 'lords-a-leaping', 'pipers piping', 'drummers drumming'], 
 		dayIns = ['first', 'second', 'third', 'fourth', 'fifth', 'sixth', 'seventh', 'eighth', 'ninth', 'tenth', 'eleventh', 'twelfth'], 
 		repeatLyrics = 'On the %s day of Christmas, <br/> my true love gave to me,';
